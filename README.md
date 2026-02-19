@@ -20,3 +20,4 @@ Real-time cryptocurrency price API powered by CoinGecko.
 ```bash
 npm install
 npm start
+TierPriceRequests/HourFree$0100Pro$9/month10,000Enterprise$49/monthUnlimited
